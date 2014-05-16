@@ -33,6 +33,7 @@
   - role: git
     git_user_name: Michael Moen
     git_user_email: michael@underpantsgnome.com
+  - role: oh_my_zsh
   - role: legit
   - role: hub
   - role: brew_package
